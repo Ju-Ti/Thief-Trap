@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Assets",
+    "\\Assets\\Assets",
+    "\\Assets\\Assets\\Fonts",
+    "\\Assets\\Assets\\Fonts\\Fredoka",
+    "\\Assets\\Assets\\Fonts\\Rubic",
+    "\\Assets\\Assets\\Fonts\\TrappedText",
+    "\\Assets\\Assets\\Fonts\\Ubuntu",
+    "\\Assets\\Assets\\Icons",
+    "\\Assets\\Assets\\Icons\\Particle"
+  ],
+  "SelectedNode": "\\Assets\\ECS\\Game\\Systems\\General\\CameraInitSystem.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d881f219768a1d449c5a4f0ea51ed1c, type: 3}
+  m_Name: HexagonCellTypeBase
+  m_EditorClassIdentifier: 
+  cellTypes:
+  - {fileID: 2100000, guid: 9fdbccf554e22c3469a5b3fdb7f42897, type: 2}
+  - {fileID: 2100000, guid: 83cc03eac6a5fd740a0bc6338964b5b3, type: 2}
+  - {fileID: 2100000, guid: cf0308c92a545aa4e928641427aa26ca, type: 2}
